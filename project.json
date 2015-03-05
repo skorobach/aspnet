@@ -7,7 +7,7 @@
         "Microsoft.AspNet.Server.WebListener": "1.0.0-beta1"
     },
     "commands": {
-        "web": "Microsoft.AspNet.Hosting --server Microsoft.AspNet.Server.WebListener --server.urls http://localhost:5001",
+        "web": "Microsoft.AspNet.Hosting --server Microsoft.AspNet.Server.WebListener --server.urls http://localhost:50010",
         "kestrel": "Microsoft.AspNet.Hosting --server Kestrel --server.urls http://localhost:5004"
     },
 	 "frameworks": {
